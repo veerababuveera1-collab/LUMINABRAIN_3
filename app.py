@@ -255,4 +255,4 @@ st.markdown("---")
 st.caption("🛡 Secure Defence Network | Encrypted Telemetry | Zero-Trust Brain OS")
 
 time.sleep(REFRESH)
-st.experimental_rerun()
+st.rerun()
